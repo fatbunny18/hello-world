@@ -1,2 +1,3 @@
 # hello-world
-my first project
+Hello!
+Hoe do you do?

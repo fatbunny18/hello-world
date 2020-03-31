@@ -1,3 +1,3 @@
 # hello-world
 Hello!
-Hoe do you do?
+How do you do?
